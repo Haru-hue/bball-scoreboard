@@ -43,6 +43,7 @@ main > .grid-container {
     color: #F94F6D;
     padding: 1.5rem 3rem;
     border-radius: 4px;
+    max-width: 50px;
 }
 
 .board {
